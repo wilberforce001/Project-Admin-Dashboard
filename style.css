@@ -87,10 +87,12 @@
   .drawer > div:nth-child(8) {
     padding-top: 60px;
   }
-  
+
   .dashboard {
-    font-size: clamp(12px, calc(25px + 0.9vw), 50px);
+    font-size: clamp(12px, calc(25px + 0.9vw), 10px);
   }
+  
+  
   .dashboard svg {
     display: flex;
     align-items: center;
